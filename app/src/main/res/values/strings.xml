@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlarmYourPosition</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_googlee_map">Map</string>
+    <string name="title_activity_all_remainders">AllRemainders</string>
+    <string name="title_activity_activity_notify">ActivityNotify</string>
+
+</resources>
